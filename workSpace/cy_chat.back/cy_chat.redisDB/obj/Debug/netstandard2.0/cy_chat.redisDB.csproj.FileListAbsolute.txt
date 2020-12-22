@@ -1,8 +1,0 @@
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.redisDB\bin\Debug\netstandard2.0\cy_chat.redisDB.deps.json
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.redisDB\bin\Debug\netstandard2.0\cy_chat.redisDB.dll
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.redisDB\bin\Debug\netstandard2.0\cy_chat.redisDB.pdb
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.redisDB\obj\Debug\netstandard2.0\cy_chat.redisDB.csproj.CoreCompileInputs.cache
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.redisDB\obj\Debug\netstandard2.0\cy_chat.redisDB.AssemblyInfoInputs.cache
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.redisDB\obj\Debug\netstandard2.0\cy_chat.redisDB.AssemblyInfo.cs
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.redisDB\obj\Debug\netstandard2.0\cy_chat.redisDB.dll
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.redisDB\obj\Debug\netstandard2.0\cy_chat.redisDB.pdb

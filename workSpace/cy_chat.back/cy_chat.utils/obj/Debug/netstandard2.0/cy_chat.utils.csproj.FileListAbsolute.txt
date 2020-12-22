@@ -1,8 +1,0 @@
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.utils\bin\Debug\netstandard2.0\cy_chat.utils.deps.json
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.utils\bin\Debug\netstandard2.0\cy_chat.utils.dll
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.utils\bin\Debug\netstandard2.0\cy_chat.utils.pdb
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.utils\obj\Debug\netstandard2.0\cy_chat.utils.AssemblyInfoInputs.cache
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.utils\obj\Debug\netstandard2.0\cy_chat.utils.AssemblyInfo.cs
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.utils\obj\Debug\netstandard2.0\cy_chat.utils.dll
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.utils\obj\Debug\netstandard2.0\cy_chat.utils.pdb
-E:\cy_chat\workSpace\cy_chat.back\cy_chat.utils\obj\Debug\netstandard2.0\cy_chat.utils.csproj.CoreCompileInputs.cache
