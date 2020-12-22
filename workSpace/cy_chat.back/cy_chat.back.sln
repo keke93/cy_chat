@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "cy_chat.backWeb", "cy_chat.backWeb\cy_chat.backWeb.fsproj", "{6F6F1DFF-F1AB-49DC-9C07-A894C1140635}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.presentation", "1.presentation", "{40831CBF-5D4C-490C-9FF1-B046369B6656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cy_chat.mobileWeb", "cy_chat.mobileWeb\cy_chat.mobileWeb.csproj", "{E4F914C5-DC35-43D2-92FF-017CA7F8DB8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.business", "2.business", "{62AEDF5B-696F-432B-A968-852EEBE18543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cy_chat.socketApi", "cy_chat.socketApi\cy_chat.socketApi.csproj", "{5E0E4E4F-395C-4093-9A17-503E455F76FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.data", "3.data", "{662047AF-B98E-4A25-97A6-481080C0C121}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.common", "5.common", "{0F802D23-0685-440C-9D9C-31DBD67CD3B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cy_chat.utils", "cy_chat.utils\cy_chat.utils.csproj", "{89262542-B1EE-4290-91D2-AF0FD42F0A40}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.entity", "4.entity", "{DD5D26E8-0FB9-4B09-BB9C-468366FEDAD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cy_chat.business", "cy_chat.business\cy_chat.business.csproj", "{325E5C6E-A037-4C7E-940E-E57E17480522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cy_chat.mysqlDB", "cy_chat.mysqlDB\cy_chat.mysqlDB.csproj", "{A5E44E48-D3A8-45B1-8DF6-5F6FD71032B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cy_chat.redisDB", "cy_chat.redisDB\cy_chat.redisDB.csproj", "{4CEF56CA-1CD0-470E-A13A-A8E587C2F42B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cy_chat.entity", "cy_chat.entity\cy_chat.entity.csproj", "{BE1DD2A8-B976-41E9-831E-385BA3EE539D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F6F1DFF-F1AB-49DC-9C07-A894C1140635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6F1DFF-F1AB-49DC-9C07-A894C1140635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6F1DFF-F1AB-49DC-9C07-A894C1140635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6F1DFF-F1AB-49DC-9C07-A894C1140635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F914C5-DC35-43D2-92FF-017CA7F8DB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F914C5-DC35-43D2-92FF-017CA7F8DB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F914C5-DC35-43D2-92FF-017CA7F8DB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F914C5-DC35-43D2-92FF-017CA7F8DB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0E4E4F-395C-4093-9A17-503E455F76FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0E4E4F-395C-4093-9A17-503E455F76FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0E4E4F-395C-4093-9A17-503E455F76FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0E4E4F-395C-4093-9A17-503E455F76FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89262542-B1EE-4290-91D2-AF0FD42F0A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89262542-B1EE-4290-91D2-AF0FD42F0A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89262542-B1EE-4290-91D2-AF0FD42F0A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89262542-B1EE-4290-91D2-AF0FD42F0A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325E5C6E-A037-4C7E-940E-E57E17480522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325E5C6E-A037-4C7E-940E-E57E17480522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325E5C6E-A037-4C7E-940E-E57E17480522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325E5C6E-A037-4C7E-940E-E57E17480522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5E44E48-D3A8-45B1-8DF6-5F6FD71032B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E44E48-D3A8-45B1-8DF6-5F6FD71032B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E44E48-D3A8-45B1-8DF6-5F6FD71032B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E44E48-D3A8-45B1-8DF6-5F6FD71032B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEF56CA-1CD0-470E-A13A-A8E587C2F42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEF56CA-1CD0-470E-A13A-A8E587C2F42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEF56CA-1CD0-470E-A13A-A8E587C2F42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEF56CA-1CD0-470E-A13A-A8E587C2F42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1DD2A8-B976-41E9-831E-385BA3EE539D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1DD2A8-B976-41E9-831E-385BA3EE539D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1DD2A8-B976-41E9-831E-385BA3EE539D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1DD2A8-B976-41E9-831E-385BA3EE539D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6F6F1DFF-F1AB-49DC-9C07-A894C1140635} = {40831CBF-5D4C-490C-9FF1-B046369B6656}
+		{E4F914C5-DC35-43D2-92FF-017CA7F8DB8E} = {40831CBF-5D4C-490C-9FF1-B046369B6656}
+		{5E0E4E4F-395C-4093-9A17-503E455F76FF} = {40831CBF-5D4C-490C-9FF1-B046369B6656}
+		{89262542-B1EE-4290-91D2-AF0FD42F0A40} = {0F802D23-0685-440C-9D9C-31DBD67CD3B9}
+		{325E5C6E-A037-4C7E-940E-E57E17480522} = {62AEDF5B-696F-432B-A968-852EEBE18543}
+		{A5E44E48-D3A8-45B1-8DF6-5F6FD71032B3} = {662047AF-B98E-4A25-97A6-481080C0C121}
+		{4CEF56CA-1CD0-470E-A13A-A8E587C2F42B} = {662047AF-B98E-4A25-97A6-481080C0C121}
+		{BE1DD2A8-B976-41E9-831E-385BA3EE539D} = {DD5D26E8-0FB9-4B09-BB9C-468366FEDAD9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC85F94F-E7A9-40FC-A467-E1753D8D48CD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+E:\cy_chat\workSpace\cy_chat.back\cy_chat.mysqlDB\bin\Debug\netstandard2.0\cy_chat.mysqlDB.deps.json
+E:\cy_chat\workSpace\cy_chat.back\cy_chat.mysqlDB\bin\Debug\netstandard2.0\cy_chat.mysqlDB.dll
+E:\cy_chat\workSpace\cy_chat.back\cy_chat.mysqlDB\obj\Debug\netstandard2.0\cy_chat.mysqlDB.AssemblyInfoInputs.cache
+E:\cy_chat\workSpace\cy_chat.back\cy_chat.mysqlDB\obj\Debug\netstandard2.0\cy_chat.mysqlDB.AssemblyInfo.cs
+E:\cy_chat\workSpace\cy_chat.back\cy_chat.mysqlDB\bin\Debug\netstandard2.0\cy_chat.mysqlDB.pdb
+E:\cy_chat\workSpace\cy_chat.back\cy_chat.mysqlDB\obj\Debug\netstandard2.0\cy_chat.mysqlDB.dll
+E:\cy_chat\workSpace\cy_chat.back\cy_chat.mysqlDB\obj\Debug\netstandard2.0\cy_chat.mysqlDB.pdb
+E:\cy_chat\workSpace\cy_chat.back\cy_chat.mysqlDB\obj\Debug\netstandard2.0\cy_chat.mysqlDB.csproj.CoreCompileInputs.cache
+E:\cy_chat\workSpace\cy_chat.back\cy_chat.mysqlDB\obj\Debug\netstandard2.0\cy_chat.mysqlDB.csprojAssemblyReference.cache

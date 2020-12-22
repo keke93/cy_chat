@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0COYE7Y0AoONNEWPUi5mwK6tsIJowzwZ9bOS9h6CUZ3zAEvDHKIgfhKHfAtPDkgN5tlWZ/NPLZtwNm1q0NmmYg==",
+  "success": true,
+  "projectFilePath": "E:\\cy_chat\\workSpace\\cy_chat.back\\cy_chat.backWeb\\cy_chat.backWeb.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
