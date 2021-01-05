@@ -1,0 +1,1 @@
+Scaffold-DbContext -F "Server=localhost;User Id=root;Password=fineex@aa1.com;Database=cy_chat" -Provider "Pomelo.EntityFrameworkCore.MySql"

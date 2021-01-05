@@ -1,0 +1,16 @@
+/workSpace/cy_chat.back/cy_chat.backWeb/bin
+/workSpace/cy_chat.back/cy_chat.backWeb/obj
+/workSpace/cy_chat.back/cy_chat.business/bin
+/workSpace/cy_chat.back/cy_chat.business/obj
+/workSpace/cy_chat.back/cy_chat.entity/bin
+/workSpace/cy_chat.back/cy_chat.entity/obj
+/workSpace/cy_chat.back/cy_chat.mobileWeb/bin
+/workSpace/cy_chat.back/cy_chat.mobileWeb/obj
+/workSpace/cy_chat.back/cy_chat.mysqlDB/obj
+/workSpace/cy_chat.back/cy_chat.mysqlDB/bin
+/workSpace/cy_chat.back/cy_chat.redisDB/bin
+/workSpace/cy_chat.back/cy_chat.redisDB/obj
+/workSpace/cy_chat.back/cy_chat.socketApi/obj
+/workSpace/cy_chat.back/cy_chat.socketApi/bin
+/workSpace/cy_chat.back/cy_chat.utils/obj
+/workSpace/cy_chat.back/cy_chat.utils/bin

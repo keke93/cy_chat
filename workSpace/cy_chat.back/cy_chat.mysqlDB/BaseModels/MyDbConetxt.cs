@@ -1,4 +1,5 @@
 ﻿using System;
+using cy_chat.mysqlDB.BaseModels.Mapping;
 using cy_chat.mysqlDB.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
@@ -20,22 +21,12 @@ namespace cy_chat.mysqlDB.BaseModels
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<TmUser>(entity =>
-            {
-                entity.HasKey(e => e.IUserId)
-                    .HasName("PRIMARY");
-
-                entity.ToTable("tm_user");
-
-                entity.Property(e => e.IUserId).HasColumnName("iUserID");
-
-                entity.Property(e => e.SUserName)
-                    .HasColumnName("sUserName")
-                    .HasColumnType("varchar(50)")
-                    .HasComment("用户名称")
-                    .HasCharSet("utf8")
-                    .HasCollation("utf8_general_ci");
-            });
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.AddConfiguration(new TmUserMap());
+            modelBuilder.AddConfiguration(new TtMessageMap());
+            modelBuilder.AddConfiguration(new TcMessagetypeMap());
+            modelBuilder.AddConfiguration(new TmSysuserMap());
+            modelBuilder.AddConfiguration(new TtOfflinemsglogMap());
 
             OnModelCreatingPartial(modelBuilder);
         }
